@@ -1,0 +1,6 @@
+Clas 03-06
+
+https://developer.android.com/training/sharing/send?hl=es-419
+
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
